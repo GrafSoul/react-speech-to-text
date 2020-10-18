@@ -28,7 +28,7 @@ yarn build
 
 ## Copyright
 
-&#169; 2020 | DICTANTOR | [MIT licensed].
+&#169; 2020 | DICT.OK | [MIT licensed].
 
 [mit licensed]: https://github.com/GrafSoul/react-speech-to-text/blob/master/LICENSE
 [github]: https://grafsoul.github.io/react-speech-to-text/

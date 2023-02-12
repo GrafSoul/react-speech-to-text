@@ -1,8 +1,0 @@
-{
-    // TitleBar color:
-    "workbench.colorCustomizations": {
-        "titleBar.activeBackground": "#241947",
-        "titleBar.activeForeground": "#ffffff",
-    },
-    "window.titleBarStyle": "custom",
-}

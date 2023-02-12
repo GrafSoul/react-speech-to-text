@@ -2,10 +2,6 @@
 
 Simple app for Speech to Text using React.js and Web Speech API
 
-## Demo
-
-[GitHub] and Heroku - [DICT.OK]
-
 ## Run for start development version
 
 ```
@@ -28,8 +24,7 @@ yarn build
 
 ## Copyright
 
-&#169; 2020 | DICT.OK | [MIT licensed].
+&#169; 2023 | DICT.OK | [MIT licensed].
 
 [mit licensed]: https://github.com/GrafSoul/react-speech-to-text/blob/master/LICENSE
 [github]: https://grafsoul.github.io/react-speech-to-text/
-[dict.ok]: https://dictok.herokuapp.com/

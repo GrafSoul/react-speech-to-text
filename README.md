@@ -2,7 +2,7 @@
 
 Simple app for Speech to Text using React.js and Web Speech API
 
-## Run for start development version
+## Run for start development version.
 
 ```
 git clone https://github.com/GrafSoul/react-speech-to-text.git
